@@ -1,0 +1,15 @@
+BAB 2
+DEFINITION= http://searchsecurity.techtarget.com/definition/MD5
+
+http://www.fastsum.com/support/md5-checksum-utility-faq/md5-hash.php
+
+https://www.schneier.com/essays/archives/2004/08/cryptanalysis_of_md5.html
+
+HISTORY= 
+http://heelpbook.altervista.org/docs/MD5-and-SHA1-hashes-in-Powershell-4-functions.pdf
+
+ALGORITHM=
+https://www.computer.org/csdl/proceedings/hicss/2005/2268/09/22680298a.pdf
+
+http://www.isi.edu/touch/pubs/sigcomm95.html
+http://www.pcmag.com/encyclopedia/term/40522/cryptography
